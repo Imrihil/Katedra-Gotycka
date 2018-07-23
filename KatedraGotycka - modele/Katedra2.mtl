@@ -1,0 +1,188 @@
+# Blender MTL File: 'Katedra.blend'
+# Material Count: 20
+
+newmtl Fabric
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Glass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 0.100000
+illum 2
+
+newmtl Gold
+Ns 174.509804
+Ka 0.000000 0.000000 0.000000
+Kd 0.624000 0.416000 0.104000
+Ks 0.700000 0.700000 0.700000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Hostia
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.650006 0.623677 0.415581
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Knot
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.023280 0.023280 0.023280
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Marble
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.950000
+illum 2
+
+newmtl MaterialCzern
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.015079 0.015079 0.015079
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Metal
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.287071 0.287071 0.287071
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Stained_Glass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 0.300000
+illum 2
+map_Kd C:\\Users\\Imrihil\\Moje studia\\4.semestr\\Grafika komputerowa\\Katedra\\Tekstury\\Stained_glass.jpg
+map_d C:\\Users\\Imrihil\\Moje studia\\4.semestr\\Grafika komputerowa\\Katedra\\Tekstury\\Stained_glassAlpha.jpg
+
+newmtl StoneColumns
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.405655 0.388776 0.340631
+Ks 0.059139 0.059139 0.059139
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Imrihil\\Moje studia\\4.semestr\\Grafika komputerowa\\Katedra\\Tekstury\\StoneColumns2.png
+
+newmtl StoneFloor
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.037569 0.037569 0.037569
+Ks 0.059139 0.059139 0.059139
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Imrihil\\Moje studia\\4.semestr\\Grafika komputerowa\\Katedra\\Tekstury\\StonesFloor.png
+
+newmtl StoneWalls
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.037569 0.037569 0.037569
+Ks 0.059139 0.059139 0.059139
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Imrihil\\Moje studia\\4.semestr\\Grafika komputerowa\\Katedra\\Tekstury\\Stones.png
+map_Ks C:\\Users\\Imrihil\\Moje studia\\4.semestr\\Grafika komputerowa\\Katedra\\Tekstury\\Stones.png
+
+newmtl StoneXYZ.001
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.037569 0.037569 0.037569
+Ks 0.059139 0.059139 0.059139
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Thread
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.900000 0.900000 0.900000
+Ks 0.300000 0.300000 0.300000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Watter
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.275942 0.318578 0.400000
+Ks 0.707337 0.757453 1.000000
+Ni 1.000000
+d 0.200000
+illum 2
+
+newmtl Wine
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.461042 0.495000 0.352783
+Ks 0.707337 0.757453 1.000000
+Ni 1.000000
+d 0.200000
+illum 2
+
+newmtl Wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.043975 0.012545 0.000000
+Ks 0.032500 0.014751 0.001596
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl WoodDeski
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.043975 0.012545 0.000000
+Ks 0.032500 0.014751 0.001596
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wosk
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.768095 0.371697
+Ks 0.100000 0.098000 0.060000
+Ni 1.000000
+d 1.000000
+illum 2
